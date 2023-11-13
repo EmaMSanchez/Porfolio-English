@@ -23,7 +23,7 @@ export default function Home() {
      </div>
      <div>
       <p className="mt-8 ">
-        Mi misión es desarrollarme como programador mientras convierto ideas en soluciones tecnológicas innovadoras. A lo largo de mi carrera, he cultivado habilidades que van más allá del simple código. Mi enfoque no se limita a resolver problemas; busco crear experiencias y contribuir al progreso tecnológico.
+        Mi misión es desarrollarme como programador mientras convierto ideas en soluciones tecnológicas innovadoras. A lo largo de mi carrera, he cultivado habilidades que van más allá del simple código. Mi enfoque no se limita a resolver problemas, busco crear experiencias y contribuir al progreso tecnológico.
       </p>
      </div>
      </div>
