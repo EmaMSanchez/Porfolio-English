@@ -35,7 +35,7 @@ const Contacto = () => {
         </p>
       </div>
       <div className='container flex justify-center mt-10'>
-        <button className='boton border-[1px] border-red-600 rounded-[4px]'>CONTACTO</button>
+        <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACTO</button>
       </div>
       <div className='mt-14 border-b-[1px] border-red-600 justify-center items-center w-auto'></div>
       <div className='container flex justify-center items-center gap-16 mt-6'>
