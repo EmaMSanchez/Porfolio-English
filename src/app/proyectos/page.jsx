@@ -9,18 +9,18 @@ import CLogo from '@/components/logos/CLogo';
 
 const Proyectos = () => {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-10">
+    <main className="flex min-h-screen flex-col items-center justify-between p-10 w-auto">
      <div className="container flex gap-3 justify-center m-5">
      <p className="font-light text-sm">S E L E C C I O N E</p> 
      <p className="font-light text-sm"> U N </p>
      <p className="font-light text-sm"> L E N G U A J E </p>
      </div>
-    <div className='container flex justify-center'>
+    <div className='container flex justify-center w-auto'>
     <Link href="/proyectos/next" className='logo ml-8'>
     <NextLogo></NextLogo>
    </Link>
     </div>
-    <div className="container flex justify-center gap-72 ">
+    <div className="container flex justify-center  w-auto md:gap-72 ">
    <Link href="/proyectos/javaScript" className='logo js '>
    <JsLogo></JsLogo>
    </Link> 

@@ -13,7 +13,7 @@ export default function Home() {
         </div>
       </div>
       <div className="container flex ml-20 flex-col">
-     <div className="container flex h-auto gap-3">
+     <div className="container flex h-auto gap-3 w-auto">
      <p className="font-light text-sm">P R O G R A M A D O R </p> 
      <p className="font-light text-sm"> J U N I O R</p>
      </div>

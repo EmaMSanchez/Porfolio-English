@@ -19,7 +19,7 @@ const Contacto = () => {
 
   return (
     <main className="flex-col items-center justify-center p-10 ">
-      <h1 className="font-extrabold text-5xl text-center">Contacto</h1>
+      <h1 className="font-extrabold text-5xl text-center w-auto">Contacto</h1>
       <div className="text-center items-center justify-center mt-10">
         <p className='text-center w-auto'>
           Estoy en busca de oportunidades futuras para contribuir a proyectos que desafíen e inspiren.
