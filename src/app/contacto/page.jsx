@@ -22,10 +22,10 @@ const Contacto = () => {
       <h1 className="font-extrabold text-5xl text-center w-auto">Contacto</h1>
       <div className="text-center items-center justify-center mt-10">
         <p className='text-center w-auto'>
-          Estoy en busca de oportunidades futuras para contribuir a proyectos que desafíen e inspiren.
+          Estoy en busca de futuras oportunidades para contribuir con proyectos que desafíen e inspiren.
         </p>
         <p className='text-center w-auto'>
-        Me emociona la posibilidad de trabajar contigo y llevar tus ideas al siguiente nivel.
+        Me entusiasma la posibilidad de trabajar con ustedes y llevar sus ideas al siguiente nivel.
         </p>
         <p className='text-center w-auto'>
           ¡No dudes en ponerte en contacto!

@@ -19,11 +19,11 @@ export default function Home() {
      </div>
      <div className="container mt-8 ">
      <h1 className="font-extrabold text-4xl md:text-5xl">¡Hola!</h1>
-     <h1 className="font-extrabold text-4xl md:text-5xl">Soy Emanuel, un apasionado desarrollador de software</h1>
+     <h1 className="font-extrabold text-4xl md:text-5xl">Soy Emanuel, un desarrollador de software apasionado</h1>
      </div>
      <div>
       <p className="mt-8">
-        Mi misión es desarrollarme como programador mientras convierto ideas en soluciones tecnológicas innovadoras. A lo largo de mi carrera, he cultivado habilidades que van más allá del simple código. Mi enfoque no se limita a resolver problemas, busco crear experiencias y contribuir al progreso tecnológico.
+        Mi misión es desarrollarme como programador mientras convierto ideas en soluciones tecnológicas innovadoras. A lo largo de mi carrera, he cultivado habilidades que van más allá del simple código. Mi enfoque no solo se limita a resolver problemas, si no que tambien busco crear experiencias y contribuir al progreso tecnológico.
       </p>
      </div>
      </div>
