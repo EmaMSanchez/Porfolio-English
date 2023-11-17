@@ -21,18 +21,18 @@ const Proyectos = () => {
    </Link>
     </div>
     <div className="container flex justify-center w-auto md:gap-72 overflow-visible">
-   <Link href="/proyectos/javaScript" className='logo js mr-[-30px] '>
+   <Link href="/proyectos/javaScript" className='logo js mr-[-30px] md:mr-0 '>
    <JsLogo></JsLogo>
    </Link> 
    <Link href="/proyectos/react" className='logo react '>
     <ReactLogo></ReactLogo>
    </Link>
-   <Link href="/proyectos/angular" className='logo ng ml-[-30px] '>
+   <Link href="/proyectos/angular" className='logo ng ml-[-30px] md:ml-0 '>
    <AngularLogo></AngularLogo>
    </Link>
     </div>
-    <div className='container flex justify-center mt-16'>
-    <Link href="/proyectos/c" className='logo c mt-[-30px]'>
+    <div className='container flex justify-center mb-[30px] mt-16'>
+    <Link href="/proyectos/c" className='logo c'>
      <CLogo></CLogo>
    </Link>
     </div>
