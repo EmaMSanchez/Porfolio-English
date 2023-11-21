@@ -2,7 +2,7 @@ import Proyectos from "@/components/Proyectos";
 import AngularLogo from "@/components/logos/AngularLogo";
 import { AngularDato } from "@/mock/Items";
 
-export default function Angular() {
+export default function Angular(){
 
 const datos = AngularDato;
 
