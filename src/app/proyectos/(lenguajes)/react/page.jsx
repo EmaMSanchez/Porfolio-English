@@ -1,6 +1,7 @@
-import Proyectos from "@/components/Proyectos";
+ 
 import ReactLogo from "@/components/logos/ReactLogo";
 import { ReactDato } from "@/mock/Items";
+import Proyectos from "@/components/Proyectos";
 
 export default function React() {
   const datos = ReactDato;
