@@ -39,19 +39,7 @@ const Contacto = () => {
       </div>
       <div className='mt-14 border-b-[1px] border-red-600 justify-center items-center w-auto'></div>
       <div className='container flex justify-center items-center gap-16 mt-6'>
-      <button
-          className='w-8'
-          onMouseEnter={() => setA(true)}
-          onMouseLeave={() => setA(false)}
-          onClick={()=>rutas("https://github.com/EmaMSanchez")}
-        >
-          <img
-            src={a ? "/describir (1).png " : "/describir.png"}
-            alt="git hub"
-            className='move'
-            
-          />
-          </button>
+  
           <button
           className='w-8'
           onMouseEnter={() => setB(true)}

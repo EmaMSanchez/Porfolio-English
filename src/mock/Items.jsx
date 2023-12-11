@@ -21,5 +21,11 @@ export const AngularDato = [
     descripcion:"Calculadora de presupuesto que saca porcentajes entre ingresos y egresos, realizada en angular con typescript",
     link:"https://gestor-presupuesto-ty-ng.netlify.app/"
    },
+   {
+      titulo: "Template Web" ,
+      imagen: "/web-ng.png" ,
+      descripcion:"Pagina web realizada en angular utilizando conceptos basicos aprendidos en curso de UNNE",
+      link:"https://web-ng.netlify.app/"
+     },
     
 ]
