@@ -53,3 +53,12 @@ export const JavaScriptDato = [
     link: "https://calculadora-app-basico-js.netlify.app/",
   },
 ];
+
+export const NextDato = [
+   {
+     titulo: "Pagina Web para Ledesma",
+     imagen: "/ledesmanxt.png",
+     descripcion: "Pagina realizada en Nextjs, con un innovador flujo de datos para una gestion mas personalizada y eficaz entre contratistas y contratantes, contiene su respectiva base de datos realizada en firebase, sistema de login, rutas protegidas por global context, css con framework tailwind, animaciones dinamicas para alertas y carteles segun contexto global",
+     link: "https://github.com/EmaMSanchez/Ledesmagit",
+   },
+];
