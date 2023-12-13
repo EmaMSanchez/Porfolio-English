@@ -62,3 +62,18 @@ export const NextDato = [
      link: "https://github.com/EmaMSanchez/Ledesmagit",
    },
 ];
+
+export const CDato = [
+   {
+     titulo: "E-Comerce",
+     imagen: "/ecomerce.png",
+     descripcion: "Pagina web E-comerce realizada en C#, con base de datos realizada en sqlMagnament, css realizado con framework bootstrap",
+     link: "https://github.com/EmaMSanchez/ecomrce",
+   },
+   {
+     titulo: "Heroe App",
+     imagen: "/cHeroe.png",
+     descripcion: "App de Heroe donde se muestran cards dinamicas con detalles, la app contiene su respectivo CRUD para crear y modificar heroes, con base de datos realizada en sqlMagnament y una simulacion de API RESTful",
+     link: "https://github.com/EmaMSanchez/emamsHeroes/tree/main/source/repos/HeroeApp",
+   },
+];
