@@ -5,7 +5,6 @@ const Contacto = () => {
 
   
   const [isLinkedinHovered, setIsLinkedinHovered] = useState(false);
-  const [a, setA] = useState(false);
   const [bb, setB] = useState(false);
   const [c, setC] = useState(false);
 
