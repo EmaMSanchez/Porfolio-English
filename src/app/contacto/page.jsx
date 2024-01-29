@@ -33,11 +33,11 @@ const Contacto = () => {
           ¡Hagamos que tu visión cobre vida en el mundo <span></span> digital!
         </p>
       </div>
-      <div className='container flex justify-center mt-10'>
+      <div className='flex flex-col items-center justify-center mt-10'>
         <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACTO</button>
       </div>
       <div className='mt-14 border-b-[1px] border-red-600 justify-center items-center w-auto'></div>
-      <div className='container flex justify-center items-center gap-16 mt-6 2xl:ml-10'>
+      <div className='flex flex-row items-center justify-center gap-16 mt-6'>
   
           <button
           className='w-8'
