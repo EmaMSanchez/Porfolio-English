@@ -37,7 +37,7 @@ const Contacto = () => {
         <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACTO</button>
       </div>
       <div className='mt-14 border-b-[1px] border-red-600 justify-center items-center w-auto'></div>
-      <div className='container flex justify-center items-center gap-16 mt-6 2xl:ml-4'>
+      <div className='container flex justify-center items-center gap-16 mt-6 2xl:ml-10'>
   
           <button
           className='w-8'
