@@ -1,9 +1,9 @@
 export const ReactDato = [
   {
-    titulo: "Anotador de tareas Complejo",
+    titulo: "Trello APP",
     imagen: "/c-d.png",
     descripcion:
-      "Anotador de tareas realizado en React, Tailwind y SweetAlert2. Posee un sistema de tareas realizadas y no realizadas, contiene modo oscuro y claro (sistema de preferencia del usuario), sistema de filtrado de tareas realizadas y no realizadas, eliminación de tareas realizadas, optimización para dispositivos móviles y de escritorio, y funcionalidad de arrastrar y soltar para reordenar las tareas de manera dinámica. Además, cuenta con persistencia en el Local Storage.",
+      "Anotador de tareas realizado en React, Tailwind y SweetAlert2. Posee un sistema de tareas realizadas y no realizadas, drag and drop, contiene dark mode y white mode con un sistema de preferencia del usuario que perciste, sistema de filtrado de tareas realizadas y no realizadas, eliminación de tareas realizadas, optimización para dispositivos móviles y de escritorio, y funcionalidad de arrastrar y soltar para reordenar las tareas de manera dinámica. Además, cuenta con persistencia en el Local Storage.",
     link: "https://gestor-tareas-dnd.netlify.app/",
   },
   {
@@ -58,7 +58,7 @@ export const NextDato = [
    {
      titulo: "Pagina Web para Constructora Ledesma",
      imagen: "/ledesmanxt.png",
-     descripcion: "Página realizada en Next.js con un innovador flujo de datos para una gestión más personalizada y eficaz entre contratistas y contratantes. Contiene su respectiva base de datos realizada en Firebase, sistema de login, rutas protegidas mediante el uso de global context, CSS implementado con el framework Tailwind, y animaciones dinámicas en alertas y carteles según el contexto global.",
+     descripcion: "Página realizada en Next.js con un innovador flujo de datos para una gestión más personalizada y eficaz entre contratistas y contratantes. Base de datos realizada en Firebase, (sistema de login y  firestore) rutas protegidas mediante el uso de context API, CSS implementado con el framework Tailwind, y animaciones dinámicas en alertas y carteles según el contexto global.",
      link: "https://github.com/EmaMSanchez/Ledesmagit",
    },
 ];
