@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 const Contacto = () => {
 
   
-  const [isLinkedinHovered, setIsLinkedinHovered] = useState(false);next
+  const [isLinkedinHovered, setIsLinkedinHovered] = useState(false);
   const [bb, setB] = useState(false);
   const [c, setC] = useState(false);
 

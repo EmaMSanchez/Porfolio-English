@@ -1,4 +1,3 @@
-import React from 'react'
 import JsLogo from "@/components/logos/JsLogo";
 import Link from 'next/link';
 import NextLogo from '@/components/logos/NextLogo';
