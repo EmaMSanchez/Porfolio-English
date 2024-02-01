@@ -3,7 +3,7 @@ export const ReactDato = [
     titulo: "Trello APP",
     imagen: "/c-d.png",
     descripcion:
-      "Anotador de tareas realizado en React, Tailwind y SweetAlert2. Posee un sistema de tareas realizadas y no realizadas, drag and drop, contiene dark mode y white mode con un sistema de preferencia del usuario que perciste, sistema de filtrado de tareas realizadas y no realizadas, eliminación de tareas realizadas, optimización para dispositivos móviles y de escritorio, y funcionalidad de arrastrar y soltar para reordenar las tareas de manera dinámica. Además, cuenta con persistencia en el Local Storage.",
+      "Anotador de tareas realizado en React, Tailwind y SweetAlert2. Posee un sistema de tareas realizadas y no realizadas, drag and drop, contiene dark mode y white mode con un sistema de preferencia del usuario con persistencia, sistema de filtrado de tareas realizadas y no realizadas, eliminación de tareas realizadas, optimización para dispositivos móviles y de escritorio, y funcionalidad de arrastrar y soltar para reordenar las tareas de manera dinámica. Además, cuenta con persistencia en el Local Storage.",
     link: "https://gestor-tareas-dnd.netlify.app/",
   },
   {
