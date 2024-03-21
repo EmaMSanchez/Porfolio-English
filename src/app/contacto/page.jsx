@@ -30,7 +30,7 @@ const Contacto = () => {
         Do not hesitate to contact us!
         </p>
         <p className='text-center w-auto'>
-        Let's bring your vision to life in the digital  <span></span> world!
+        Let's bring your vision to life in the digital  <span>world!</span> 
         </p>
       </div>
       <div className='flex flex-col items-center justify-center mt-10'>
