@@ -7,11 +7,25 @@ export const ReactDato = [
     link: "https://gestor-tareas-dnd.netlify.app/",
   },
   {
-    titulo: "Anotador de tareas Simple",
-    imagen: "/tareasBasico.png",
+    titulo: "Chat Realtime",
+    imagen: "/cloneChat.png",
     descripcion:
-      "Anotador de tareas realizado en React, Tailwind y SweetAlert2, que posee un sistema de tareas realizadas y no realizadas, así como también un sistema de orden de tareas prioritarias, las cuales se imponen sobre aquellas que no lo son. Además, cuenta con persistencia de datos en el Local Storage.",
-    link: "https://gestor-basico-r.netlify.app/",
+      "Clon de mensajería que utiliza autenticación de Google Firebase desde el perfil de usuario. Utiliza Firestore para la persistencia y actualización de mensajes entre dispositivos en tiempo real, simulando Realtime-Firebase a través de métodos y optimizaciones para lograr el mismo resultado.",
+    link: "https://short-cut-app-web.netlify.app/",
+  },
+  {
+    titulo: "Acortador de URL",
+    imagen: "/shortCut.png",
+    descripcion:
+      "Aplicación acortadora de URLs, con su respectivo CRUD, que hace uso de Firebase para autenticación de usuarios y Firestore para el almacenamiento de datos. Utiliza reglas de seguridad tanto en Firebase como en el front-end, para que el usuario solo tenga acceso a su colección de URLs y pueda modificarla, sin perder la capacidad de compartir la URL cortada.",
+    link: "https://short-cut-app-web.netlify.app/",
+  },
+  {
+    titulo: "User PokeApi",
+    imagen: "/poke.api.png",
+    descripcion:
+      "Aplicación que consume una API de Pokémon, la cual permite ver el detalle de las características del Pokémon seleccionado. Además, se persisten los datos del detalle y de la lista en el almacenamiento local para una carga más optimizada y para reducir las peticiones a la API. La aplicación también cuenta con autenticación automática de Google a través de Firebase, así como el uso de Firestore para persistir o modificar al usuario registrado. Al igual que con la API, se gestionan las modificaciones de manera local para optimizar las peticiones a la base de datos.",
+    link: "https://users-poke-api.netlify.app/login",
   },
 ];
 
@@ -73,7 +87,7 @@ export const CDato = [
    {
      titulo: "Héroe App",
      imagen: "/cHeroe.png",
-     descripcion: "App de Héroes donde se muestran tarjetas dinámicas con detalles. La aplicación contiene su respectivo CRUD para crear y modificar héroes, con una base de datos implementada en SQL Server Management Studio y una simulación de API RESTful.",
+     descripcion: "App de Héroes donde se muestran tarjetas dinámicas con acceso a detalles y su respectivo CRUD para crear y modificar héroes. La aplicación contiene una simulacion de consumo de una API RESTful y se utiliza una base de datos implementada en SQL Server Management Studio .",
      link: "https://github.com/EmaMSanchez/emamsHeroes/tree/main/source/repos/HeroeApp",
    },
 ];
