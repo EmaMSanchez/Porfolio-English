@@ -11,7 +11,7 @@ export const ReactDato = [
     imagen: "/cloneChat.png",
     descripcion:
       "Messaging clone that uses Google Firebase authentication from the user profile. It uses Firestore to persist and update messages between devices in real time, simulating Realtime-Firebase through methods and optimizations to achieve the same result.",
-    link: "https://short-cut-app-web.netlify.app/",
+    link: "https://chat-realtime-clone.netlify.app/",
   },
   {
     titulo: "Short Cut URL",
@@ -25,7 +25,7 @@ export const ReactDato = [
     imagen: "/poke.api.png",
     descripcion:
       "Application that consumes a Pokémon API, which allows to view the detail characteristics of the selected Pokémon. In addition, the detail and list data is persisted in local storage for more optimized loading and to reduce API requests. The application also features automatic Google authentication through Firebase, as well as the use of Firestore to persist or modify the registered user. As with the API, modifications are handled locally to optimize requests to the database.",
-    link: "https://users-poke-api.netlify.app/login",
+    link: "https://users-poke-api.netlify.app/",
   },
 ];
 
