@@ -18,23 +18,23 @@ const Contacto = () => {
 
   return (
     <main className="flex-col items-center justify-center p-10 ">
-      <h1 className="font-extrabold text-5xl text-center w-auto">Contacto</h1>
+      <h1 className="font-extrabold text-5xl text-center w-auto">Contact</h1>
       <div className="text-center items-center justify-center mt-10">
         <p className='text-center w-auto'>
-          Estoy en busca de futuras oportunidades para contribuir con proyectos que desafíen e inspiren.
+        I am looking for future opportunities to contribute to projects that challenge and inspire.
         </p>
         <p className='text-center w-auto'>
-        Me entusiasma la posibilidad de trabajar con ustedes y llevar sus ideas al siguiente nivel.
+        I am excited about the possibility of working with you and taking your ideas to the next level.
         </p>
         <p className='text-center w-auto'>
-          ¡No dudes en ponerte en contacto!
+        Do not hesitate to contact us!
         </p>
         <p className='text-center w-auto'>
-          ¡Hagamos que tu visión cobre vida en el mundo <span></span> digital!
+        Let's bring your vision to life in the digital  <span></span> world!
         </p>
       </div>
       <div className='flex flex-col items-center justify-center mt-10'>
-        <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACTO</button>
+        <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACT</button>
       </div>
       <div className='mt-14 border-b-[1px] border-red-600 justify-center items-center w-auto'></div>
       <div className='flex flex-row items-center justify-center gap-16 mt-6'>

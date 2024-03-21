@@ -3,76 +3,76 @@ export const ReactDato = [
     titulo: "Trello APP",
     imagen: "/c-d.png",
     descripcion:
-      "Anotador de tareas realizado en React, Tailwind y SweetAlert2. Posee un sistema de tareas realizadas y no realizadas, drag and drop, contiene dark mode y white mode con un sistema de preferencia del usuario con persistencia, sistema de filtrado de tareas realizadas y no realizadas, eliminación de tareas realizadas, optimización para dispositivos móviles y de escritorio, y funcionalidad de arrastrar y soltar para reordenar las tareas de manera dinámica. Además, cuenta con persistencia en el Local Storage.",
+      "Task recorder made in React, Tailwind and SweetAlert2. It has a done and undone tasks system, drag and drop, contains dark mode and white mode with a user preference system with persistence, done and undone tasks filtering system, done tasks deletion, optimization for mobile and desktop devices, and drag and drop functionality to reorder tasks dynamically. In addition, it has persistence in the Local Storage.",
     link: "https://gestor-tareas-dnd.netlify.app/",
   },
   {
     titulo: "Chat Realtime",
     imagen: "/cloneChat.png",
     descripcion:
-      "Clon de mensajería que utiliza autenticación de Google Firebase desde el perfil de usuario. Utiliza Firestore para la persistencia y actualización de mensajes entre dispositivos en tiempo real, simulando Realtime-Firebase a través de métodos y optimizaciones para lograr el mismo resultado.",
+      "Messaging clone that uses Google Firebase authentication from the user profile. It uses Firestore to persist and update messages between devices in real time, simulating Realtime-Firebase through methods and optimizations to achieve the same result.",
     link: "https://short-cut-app-web.netlify.app/",
   },
   {
-    titulo: "Acortador de URL",
+    titulo: "Short Cut URL",
     imagen: "/shortCut.png",
     descripcion:
-      "Aplicación acortadora de URLs, con su respectivo CRUD, que hace uso de Firebase para autenticación de usuarios y Firestore para el almacenamiento de datos. Utiliza reglas de seguridad tanto en Firebase como en el front-end, para que el usuario solo tenga acceso a su colección de URLs y pueda modificarla, sin perder la capacidad de compartir la URL cortada.",
+      "URL shortening application, with its respective CRUD, that makes use of Firebase for user authentication and Firestore for data storage. It uses security rules both in Firebase and in the front-end, so that the user only has access to his URL collection and can modify it, without losing the ability to share the shortened URL.",
     link: "https://short-cut-app-web.netlify.app/",
   },
   {
     titulo: "User PokeApi",
     imagen: "/poke.api.png",
     descripcion:
-      "Aplicación que consume una API de Pokémon, la cual permite ver el detalle de las características del Pokémon seleccionado. Además, se persisten los datos del detalle y de la lista en el almacenamiento local para una carga más optimizada y para reducir las peticiones a la API. La aplicación también cuenta con autenticación automática de Google a través de Firebase, así como el uso de Firestore para persistir o modificar al usuario registrado. Al igual que con la API, se gestionan las modificaciones de manera local para optimizar las peticiones a la base de datos.",
+      "Application that consumes a Pokémon API, which allows to view the detail characteristics of the selected Pokémon. In addition, the detail and list data is persisted in local storage for more optimized loading and to reduce API requests. The application also features automatic Google authentication through Firebase, as well as the use of Firestore to persist or modify the registered user. As with the API, modifications are handled locally to optimize requests to the database.",
     link: "https://users-poke-api.netlify.app/login",
   },
 ];
 
 export const AngularDato = [
   {
-    titulo: "Calculadora de Presupuesto App",
+    titulo: "Budget Calculator App",
     imagen: "/presupuestoApp.png",
     descripcion:
-      "Calculadora de presupuesto que saca porcentajes entre ingresos y egresos, realizada en angular con typescript.",
+      "Budget calculator that calculates percentages between income and expenses, made in Angular with typescript.",
     link: "https://gestor-presupuesto-ty-ng.netlify.app/",
   },
   {
     titulo: "Template Web",
     imagen: "/web-ng.png",
     descripcion:
-      "Pagina web realizada en angular utilizando conceptos aprendidos en curso de UNNE.",
+      "Web page made in Angular using concepts learned in UNNE course.",
     link: "https://web-ng.netlify.app/",
   },
 ];
 
 export const JavaScriptDato = [
   {
-    titulo: "Pagina Web para proyecto Liight",
+    titulo: "Pagina Web project Liight",
     imagen: "/liight.png",
-    descripcion: "Administrador de usuarios con su respectivo CRUD, sistema de login y sign up, realizado en HTML, JavaScript y CSS con animaciones basadas en @keyframes. Para la persistencia y recuperación de datos en el login, se utilizó MySQL con Express. Además, se implementó un algoritmo que verifica si el usuario ya se encuentra logueado.",
+    descripcion: "User administrator with its respective CRUD, login and sign up system, made in HTML, JavaScript and CSS with animations based on @keyframes. For the persistence and data retrieval in the login, MySQL with Express was used. In addition, an algorithm was implemented to verify if the user is already logged in.",
     link: "https://github.com/EmaMSanchez/Proyecto-de-Liight",
   },
 
   {
-    titulo: "Listador de personas simple",
+    titulo: "Simple people listener",
     imagen: "/anotadorTareasBasicoJava.png",
-    descripcion: "Listador de personas básico realizado en Js.",
+    descripcion: "Basic list of people made in Js.",
     link: "https://listador-personas-js.netlify.app/",
   },
   {
-    titulo: "Calculadora Js",
+    titulo: "Calculator Js ",
     imagen: "/calculadoraJs.png",
-    descripcion: "Calculadora básica realizada en JavaScript.",
+    descripcion: "Basic calculator made in JavaScript.",
     link: "https://calculadora-app-basico-js.netlify.app/",
   },
 ];
 
 export const NextDato = [
    {
-     titulo: "Pagina Web para Constructora Ledesma",
+     titulo: "Web Page for Constructora Ledesma",
      imagen: "/ledesmanxt.png",
-     descripcion: "Página realizada en Next.js con un innovador flujo de datos para una gestión más personalizada y eficaz entre contratistas y contratantes. Base de datos realizada en Firebase, (sistema de login y  firestore) rutas protegidas mediante el uso de context API, CSS implementado con el framework Tailwind, y animaciones dinámicas en alertas y carteles según el contexto global.",
+     descripcion: "Page made in Next.js with an innovative data flow for a more personalized and efficient management between contractors and contractors. Database built in Firebase, (login and firestore system) protected routes through the use of context API, CSS implemented with the Tailwind framework, and dynamic animations in alerts and posters according to the global context.",
      link: "https://github.com/EmaMSanchez/Ledesmagit",
    },
 ];
@@ -81,13 +81,13 @@ export const CDato = [
    {
      titulo: "E-Comerce",
      imagen: "/ecomerce.png",
-     descripcion: "Página web de comercio electrónico realizada en C#, con base de datos implementada en SQL Server Management Studio, y diseño de estilo con el framework Bootstrap.",
+     descripcion: "E-commerce website made in C#, with database implemented in SQL Server Management Studio, and style design with Bootstrap framework.",
      link: "https://github.com/EmaMSanchez/ecomrce",
    },
    {
-     titulo: "Héroe App",
+     titulo: "Hero App",
      imagen: "/cHeroe.png",
-     descripcion: "App de Héroes donde se muestran tarjetas dinámicas con acceso a detalles y su respectivo CRUD para crear y modificar héroes. La aplicación contiene una simulacion de consumo de una API RESTful y se utiliza una base de datos implementada en SQL Server Management Studio .",
+     descripcion: "Heroes App where dynamic cards are shown with access to details and their respective CRUD to create and modify heroes. The application contains a simulated consumption of a RESTful API and uses a database implemented in SQL Server Management Studio.",
      link: "https://github.com/EmaMSanchez/emamsHeroes/tree/main/source/repos/HeroeApp",
    },
 ];

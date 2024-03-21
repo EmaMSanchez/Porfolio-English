@@ -10,9 +10,9 @@ const Proyectos = () => {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 w-auto">
      <div className="container flex gap-3 justify-center m-5">
-     <p className="font-light text-sm w-auto">S E L E C C I O N E</p> 
-     <p className="font-light text-sm w-auto"> U N </p>
-     <p className="font-light text-sm w-auto"> L E N G U A J E </p>
+     <p className="font-light text-sm w-auto">S E L E C T </p> 
+     <p className="font-light text-sm w-auto"> A  </p>
+     <p className="font-light text-sm w-auto">L A N G U A G E </p>
      </div>
     <div className='container flex justify-center w-auto'>
     <Link href="/proyectos/next" className='logo ml-8'>
