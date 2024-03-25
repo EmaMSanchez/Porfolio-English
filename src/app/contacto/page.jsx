@@ -1,4 +1,6 @@
 "use client"
+import TextoEffect2 from '@/components/TextoEffect2';
+import Titulo from '@/components/Titulo';
 import React, { useState } from 'react'
 
 const Contacto = () => {
@@ -18,21 +20,8 @@ const Contacto = () => {
 
   return (
     <main className="flex-col items-center justify-center p-10 ">
-      <h1 className="font-extrabold text-5xl text-center w-auto">Contact</h1>
-      <div className="text-center items-center justify-center mt-10">
-        <p className='text-center w-auto'>
-        I am looking for future opportunities to contribute to projects that challenge and inspire.
-        </p>
-        <p className='text-center w-auto'>
-        I am excited about the possibility of working with you and taking your ideas to the next level.
-        </p>
-        <p className='text-center w-auto'>
-        Do not hesitate to contact us!
-        </p>
-        <p className='text-center w-auto'>
-        Let's bring your vision to life in the digital  <span>world!</span> 
-        </p>
-      </div>
+      <Titulo/>
+      <TextoEffect2/>
       <div className='flex flex-col items-center justify-center mt-10'>
         <button className='boton border-[1px] border-red-600 rounded-[4px]' onClick={()=>mail()}>CONTACT</button>
       </div>
